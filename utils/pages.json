@@ -1,7 +1,0 @@
-{
-  "pages": [
-    { "path": "pages/index/index", "style": { "navigationBarTitleText": "Chat" }},
-    { "path": "pages/group/group", "style": { "navigationBarTitleText": "Group" }},
-    { "path": "pages/settings/settings", "style": { "navigationBarTitleText": "Settings" }}
-  ]
-}
