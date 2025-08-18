@@ -1,0 +1,12 @@
+{
+  "name": "Walkie-Talkie",
+  "version": "1.0.0",
+  "description": "A uni-app walkie-talkie project",
+  "app-plus": {
+    "distribute": {
+      "android": {
+        "package": "com.example.walkietalkie"
+      }
+    }
+  }
+}
